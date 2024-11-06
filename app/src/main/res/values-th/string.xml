@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">เครื่องคำนวณ BMI</string>
+    <string name="bmi_title">ดัชนีมวลกาย</string>
+    <string name="weight_hint">น้ำหนัก (กิโลกรัม)</string>
+    <string name="height_hint">ส่วนสูง (เซนติเมตร)</string>
+    <string name="bmi_result">BMI: </string>
+    <string name="bmi_category">หมวดหมู่: </string>
+    <string name="hint_BMI_show"> ค่า BMI ของคุณ</string>
+    <string name="calculate_button">คำนวณ</string>
+    <string name="severe">น้ำหนักน้อยระดับ 3</string>
+    <string name="moderate">น้ำหนักน้อยระดับ 2</string>
+    <string name="mild">น้ำหนักน้อยระดับ 1</string>
+    <string name="normal">ปกติ</string>
+    <string name="overweight">น้ำหนักเกิน</string>
+    <string name="obese1">โรคอ้วนระดับ 1</string>
+    <string name="obese2">โรคอ้วนระดับ 2</string>
+    <string name="obese3">โรคอ้วนระดับ 3</string>
+    <string name="view_history">ประวัติ</string>
+    <string name="back_to_main">ย้อนกลับ</string>
+
+        </resources>

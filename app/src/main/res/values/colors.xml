@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="severeThinness">#BB2121</color>
+    <color name="moderateThinness">#D58689</color>
+    <color name="mildThinness">#FEE300</color>
+    <color name="normal">#018136</color>
+    <color name="overweight">#FEE300</color>
+    <color name="obeseClass1">#D58689</color>
+    <color name="obeseClass2">#BB2121</color>
+    <color name="obeseClass3">#8A0202</color>
+</resources>

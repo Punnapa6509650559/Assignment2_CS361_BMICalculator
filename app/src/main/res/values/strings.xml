@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="bmi_title">Body Mass Index</string>
+    <string name="weight_hint">Weight (kg)</string>
+    <string name="height_hint">Height (cm)</string>
+    <string name="bmi_result">BMI: </string>
+    <string name="bmi_category">Category: </string>
+    <string name="hint_BMI_show"> BMI Values </string>
+    <string name="calculate_button">Calculate</string>
+    <string name="severe">Severe thinness</string>
+    <string name="moderate">Moderate thinness</string>
+    <string name="mild">Mild thinness</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese1">Obese Class I</string>
+    <string name="obese2">Obese Class II</string>
+    <string name="obese3">Obese Class III</string>
+    <string name="view_history">History</string>
+    <string name="back_to_main">Back</string>
+</resources>
